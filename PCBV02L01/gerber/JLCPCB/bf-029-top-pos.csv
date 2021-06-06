@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100u,BF@CP_Elec_6.3x5.3,15,15,90,top
+D1,LED,BF@LED_0603_1608Metric,7,25.5,90,top
+R1,1k,BF@R_0603_1608Metric,8.5,14,90,top
+R2,1k,BF@R_0603_1608Metric,8.5,18,90,top
+R3,100,BF@R_0603_1608Metric,26,16.5,0,top
+R4,100,BF@R_0603_1608Metric,26,7.5,0,top
+R5,3.3k,BF@R_0603_1608Metric,7,22,90,top
+SW1,Prev/Vol-,BF@K2-6639SP,48,12.5,0,top
+SW2,Next/Vol+,BF@K2-6639SP,48,22,0,top
