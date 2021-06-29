@@ -29,4 +29,4 @@ DF-029.ino は、M5Atom 用です。M5Atom の GROVE ポートに DFPlayer-Mini 
 
 ## 内容物
 
-<img src="./image/pack.JPEG" width=300>
+<img src="./image/pack.jpeg" width=300>
