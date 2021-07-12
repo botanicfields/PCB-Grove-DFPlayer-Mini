@@ -4,6 +4,9 @@ a PCB to connect DFPlayer-Mini through Grove Connector
 # DFPlayer-Mini 用 GROVE 接続基板
 MP3 演奏モジュール DFPlayer-Mini を GROVE コネクタで簡単に接続するためのプリント基板です。フラッシュメモリ用 USB コネクタ、モニタースピーカー端子、ステレオ出力を備えます。押しボタンスイッチが 2 個あり、次の曲・前の曲の選択、長押しで音量増・減ができます。
 
+販売委託（スイッチサイエンス）：  
+https://www.switch-science.com/catalog/7310/
+
 <img src="./image/front.jpg" width=300> <img src="./image/back.jpg" width=300>
 
 ## 特徴
