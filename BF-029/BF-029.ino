@@ -7,8 +7,8 @@
 DfplayerMini Dfpm;
 
 const int loop_ms = 10;
-int loop_last_ms  =  0;
-int loop_count    =  0;
+unsigned int loop_last_ms  =  0;
+unsigned int loop_count    =  0;
 
 void setup()
 {
